@@ -1,0 +1,14 @@
+body{
+    background-color: limegreen;
+}
+
+form{
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    width: 50vw;
+}
+
+label{
+    display: block;
+}
